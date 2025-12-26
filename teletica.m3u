@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png" group-title="Costa Rica",Teletica 7
+
+#EXTVLCOPT:http-referrer=https://bradmax.com/
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+#EXTVLCOPT:http-referrer=https://bradmax.com/
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
+https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8

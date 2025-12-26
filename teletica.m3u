@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://eventos.teletica.com/images/live-teletica7.png" group-title="Costa Rica", Teletica Canal 7 (Opción A)
+#EXTINF:-1 tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7 (Principal)
 #EXTVLCOPT:http-referrer=https://www.teletica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live1/chunks_dvr.m3u8|Referer=https://www.teletica.com/&User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8|Referer=https://www.teletica.com/&Origin=https://www.teletica.com/&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://eventos.teletica.com/images/live-teletica7.png" group-title="Costa Rica", Teletica Canal 7 (Opción B)
-#EXTVLCOPT:http-referrer=https://www.teletica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamCR/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist.m3u8|Referer=https://www.teletica.com/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7 (Alternativo)
+#EXTVLCOPT:http-referrer=https://bradmax.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist.m3u8|Referer=https://bradmax.com/&Origin=https://bradmax.com/&User-Agent=Mozilla/5.0

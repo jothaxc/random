@@ -4,10 +4,7 @@
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
-#EXTVLCOPT:http-referrer=https://bradmax.com/
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://bradmax.com/
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
+#EXTINF:-1 tvg-id="teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png" group-title="Costa Rica",Teletica 7
+#EXTVLCOPT:http-referrer=https://www.teletica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8

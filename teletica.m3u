@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="teletica7.cr" tvg-name="Teletica 7" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png" group-title="Costa Rica",Teletica 7
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
